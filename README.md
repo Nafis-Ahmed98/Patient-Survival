@@ -1,5 +1,5 @@
 # Patient-Survival
-Using Python, I developed a Machine Learning model using classification techniques such as Random Forest and SVM classifiers to predict a patient's survival status that have undergone breast cancer surgery.
+Using Python, I developed a Machine Learning model using classification techniques such as Random Forest and SVM classifiers to predict a patient's survival status that have undergone breast cancer surgery. I then evaluated both models' performances to shortlist the better one.
 
 The dataset contains cases from a study that was conducted between 1958 and 1970 on the
 survival of patients who had undergone surgery for breast cancer.
